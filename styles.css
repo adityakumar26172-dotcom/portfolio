@@ -327,6 +327,7 @@ dd {
 }
 .contacts a {
   text-decoration-color: var(--violet);
+  text-underline-offset: 3px;
   overflow-wrap: anywhere;
 }
 
@@ -1790,4 +1791,23 @@ img {
     grid-row: 1 / span 6;
     margin-bottom: 0;
   }
+}
+
+/* ===== Hero headline: one bold display font on both lines ===== */
+.hero h1,
+.hero h1 .line > span {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-weight: 800;
+  font-style: normal;
+  letter-spacing: -0.02em;
+  line-height: 1.08;
+}
+.hero h1 {
+  font-size: clamp(2.6rem, 6vw, 5.2rem);
+}
+.hero h1 .line:last-child > span {
+  color: var(--gold);
+  font-style: normal;
+  font-weight: 800;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
 }

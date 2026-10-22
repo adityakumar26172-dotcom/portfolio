@@ -2,8 +2,8 @@
    Leave a value as "" to show a placeholder. Only https:// links are accepted for profiles. */
 const CONTACTS = {
   kumar:  { email: "adityakumar26172@gmail.com", phone: "9835246096", linkedin: "https://www.linkedin.com/in/aditya-kumar-a4b643400",  freelancer: "https://www.freelancer.in/u/AdityaKM911", github: "https://github.com/adityakumar26172-dotcom" },
-  bhagat: { email: "", phone: "", linkedin: "", instagram: "", freelancer: "", github: "" },
-  ansari: { email: "", phone: "", linkedin: "", instagram: "", freelancer: "", github: "" }
+  bhagat: { email: "Email : bhagataditya0624@gnail.com", phone: "7321946907", linkedin: "https://www.linkedin.com/in/aditya-kumar-b20970351?utm_source=share_via&utm_content=profile&utm_medium=member_android", instagram: "", freelancer: "", github: "" },
+  ansari: { email: "tashinclg725@gmail.com", phone: "7250762112", linkedin: "", instagram: "", freelancer: "", github: "" }
 };
 const FIELDS = [
   ["email", "Email", "Enter email address"],
