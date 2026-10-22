@@ -1,0 +1,414 @@
+https://cdn.phototourl.com/member/2026-10-19-d0b692d8-3072-4fd7-a202-56eaea853967.png          
+https://cdn.phototourl.com/member/2026-10-19-1819ac73-6b8e-4d64-902b-cc21ce5154c7.jpg
+https://cdn.phototourl.com/member/2026-10-19-a86b3484-6486-4fca-94c9-a3945ab348ec.png
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tremindova | Three Minds, One Vision</title>
+<link rel="icon" type="image/png" href="favicon.png">
+<meta name="description" content="A collective of ambitious individuals bringing together skills, creativity, and ideas to build meaningful work.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#home">Skip to content</a>
+
+<header class="site-header" id="top">
+  <a class="logo" href="#home" aria-label="Tremindova - home"><img src="logo.png" alt="Tremindova"></a>
+  <button class="menu-btn" aria-expanded="false" aria-controls="nav" aria-label="Open menu"><span></span><span></span></button>
+  <nav id="nav" aria-label="Main">
+    <a href="#home">Home</a><a href="#about">About</a><a href="#team">Our Team</a>
+    <a href="#expertise">Expertise</a><a href="#projects">Projects</a><a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<main>
+<!-- HERO -->
+<section id="home" class="hero">
+  <div class="hero-top">
+  <div class="hero-text">
+    <p class="label">TEAM PORTFOLIO &nbsp;|&nbsp; EST. [YEAR]</p>
+    <h1>Three Minds.<br>One Vision.</h1>
+    <p class="lead">A collective of ambitious individuals bringing together skills, creativity, and ideas to build meaningful work.</p>
+    <p class="meta">Independent minds, shared ambition.</p>
+    <div class="actions">
+      <a class="btn primary" href="#projects">Explore Our Work</a>
+      <a class="btn" href="#team">Meet the Team</a>
+    </div>
+  </div>
+  <!-- Slider: edit the three slides here -->
+  <div class="slider" role="region" aria-roledescription="carousel" aria-label="What we do">
+    <p class="label">WE IMAGINE. WE DESIGN. WE DEVELOP.</p>
+    <div class="slides">
+      <article class="slide active"><span class="num">01</span><h2 class="word">Imagine</h2><p>Every project begins with an idea worth exploring.</p></article>
+      <article class="slide"><span class="num">02</span><h2 class="word">Design</h2><p>Clear structure and careful detail shape how the work feels.</p></article>
+      <article class="slide"><span class="num">03</span><h2 class="word">Develop</h2><p>Clean, dependable code turns the design into something real.</p></article>
+    </div>
+    <div class="slider-ui">
+      <div class="dots" role="group" aria-label="Choose slide">
+        <button aria-label="Show slide 1" class="active"></button><button aria-label="Show slide 2"></button><button aria-label="Show slide 3"></button>
+      </div>
+      <div class="arrows">
+        <button class="prev" aria-label="Previous slide">&larr;</button><button class="next" aria-label="Next slide">&rarr;</button>
+      </div>
+    </div>
+    <div class="progress"><span></span></div>
+  </div>
+  </div>
+  <div class="hero-portraits" aria-label="Team portraits (placeholders)">
+    <figure class="ph"><img class="photo" src="https://cdn.phototourl.com/member/2026-10-19-a86b3484-6486-4fca-94c9-a3945ab348ec.png" alt="Portrait of Aditya Kumar" style="--face:50% 20%"><figcaption>Aditya Kumar<small>Team Member</small></figcaption></figure>
+    <figure class="ph"><img class="photo" src="https://cdn.phototourl.com/member/2026-10-19-1819ac73-6b8e-4d64-902b-cc21ce5154c7.jpg" alt="Portrait of Aditya Bhagat" style="--face:50% 20%"><figcaption>Aditya Bhagat<small>Team Member</small></figcaption></figure>
+    <figure class="ph"><img class="photo" src="images/mohammad-tashin-ansari.jpg" alt="Portrait of Mohammad Tashin Ansari" style="--face:50% 20%"><figcaption>Mohammad Tashin Ansari<small>Team Member</small></figcaption></figure>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about" class="section">
+  <h2 class="big">Built on Different Strengths. United by One Vision.</h2>
+  <p class="intro">This portfolio represents a collaborative team. Each member brings individual strengths, interests, and responsibilities to shared work.</p>
+  <div class="two-col">
+    <article><h3>Who We Are</h3><p>Our journey began with a shared curiosity about technology and a common passion for understanding how the digital world works. From an early age, each of us was fascinated by computers, coding, website development, and the technology that powers the digital experiences we use every day. We were never satisfied with simply using technology; we wanted to understand what happens behind the scenes — how lines of code transform into functional websites, how applications solve real-world problems, and how innovative ideas become digital solutions.
+
+After completing our Class 12 education, we came together and discovered that we shared more than just an interest in technology — we shared a vision for the future. We realized that our individual curiosity could become something much bigger if we combined our ideas, learned from one another, and worked towards a common goal.
+
+What started as a friendship gradually evolved into a shared ambition to explore the world of web development, software, and digital innovation. We began exchanging ideas, experimenting with new technologies, developing our skills, and learning through hands-on projects. Every challenge became an opportunity to grow, and every new concept brought us one step closer to turning our passion into practical expertise.
+
+Beyond technology, our strength lies in the friendship, trust, and willingness to grow together that have shaped our journey. We believe that great digital products are built not only with technical knowledge but also with creativity, collaboration, consistency, and a genuine desire to solve problems.
+
+Today, we are building our journey as a team of aspiring developers and digital creators, committed to learning continuously, creating meaningful digital experiences, and transforming ideas into reality. We know that there is still much to explore, but we see that as an opportunity rather than a limitation.
+
+Our journey is just beginning, and our vision is to grow together, build with purpose, and create technology that makes a difference.</p></article>
+    <article><h3>Our Vision</h3><p>Our vision is to become a team of innovative digital creators who transform ideas into meaningful, reliable, and impactful digital experiences. We aspire to go beyond writing code and designing websites by building solutions that address real-world challenges, simplify everyday tasks, and help businesses establish a strong digital presence.
+
+We believe that technology should be more than just functional — it should be intuitive, accessible, secure, and thoughtfully designed around the people who use it. With this philosophy, we aim to create digital products that combine modern design, seamless functionality, and dependable performance across devices.
+
+As we continue to grow, our goal is to explore emerging technologies, continuously refine our technical expertise, and embrace new possibilities in web development and software innovation. We aspire to collaborate with individuals, startups, and businesses to turn ambitious ideas into practical digital solutions that deliver lasting value.
+
+Ultimately, our vision is to build more than websites — we want to build experiences, solve problems, establish trust, and contribute to a digital future where creativity and technology work together to make a meaningful difference.
+
+We envision a future where every idea has the potential to become something extraordinary through the power of technology.</p></article>
+    <article><h3>Our Mission</h3><p>Our mission is to transform ideas into impactful digital solutions through creativity, technical excellence, and a commitment to continuous learning. As a team of aspiring web developers and digital creators, we strive to build modern, responsive, user-friendly, and performance-driven websites that combine aesthetics with functionality.
+
+We aim to understand the unique needs of every project, approach challenges with a problem-solving mindset, and deliver solutions that are practical, accessible, and aligned with real-world requirements. From crafting intuitive user interfaces to developing reliable backend systems, we are committed to understanding every layer of the development process and creating digital experiences that work seamlessly.
+
+Collaboration is at the heart of our mission. By sharing knowledge, exchanging ideas, exploring emerging technologies, and learning from every challenge, we seek to strengthen our individual abilities while growing together as a team. We believe that consistent improvement, attention to detail, and a willingness to adapt are essential to building meaningful and sustainable digital products.
+
+We are dedicated to maintaining a balance between innovation and simplicity, ensuring that every project we undertake reflects thoughtful design, clean code, dependable functionality, and a genuine understanding of the people it serves.
+
+Our mission is simple: to keep learning, keep building, and turn ambitious ideas into valuable digital experiences — one project, one solution, and one line of code at a time.</p></article>
+    <article><h3>Our Values</h3><p>At the heart of our journey lies a set of values that guide how we think, collaborate, create, and grow. We believe that building exceptional digital experiences begins with the right mindset — a willingness to learn, the courage to explore new possibilities, and the discipline to turn ideas into meaningful outcomes. These principles shape our approach to technology, teamwork, and every project we undertake.
+
+1. Innovation & Creativity
+
+We believe in exploring possibilities beyond conventional solutions. We encourage creative thinking, experiment with new technologies, and approach every challenge with an open mind to develop digital experiences that are distinctive, practical, and forward-thinking.
+
+2. Continuous Learning
+
+Technology never stands still, and neither do we. We are committed to continuously expanding our knowledge, refining our technical skills, and adapting to emerging tools, frameworks, and industry trends. Every project is an opportunity to learn something new and become better at what we do.
+
+3. Collaboration & Teamwork
+
+We believe that great ideas become even stronger when people work together. By sharing knowledge, respecting different perspectives, and supporting one another, we create an environment where individual strengths contribute to collective growth and better outcomes.
+
+4. Quality & Attention to Detail
+
+We value the details that make a meaningful difference. From clean, maintainable code to responsive layouts and seamless user interactions, we strive to approach every aspect of development with care, consistency, and a commitment to quality.
+
+5. User-Centric Thinking
+
+We believe technology should serve people, not complicate their lives. Our approach focuses on understanding user needs and creating digital solutions that are intuitive, accessible, responsive, and easy to navigate across different devices.
+
+6. Integrity & Accountability
+
+We believe trust is earned through honesty, transparency, and responsibility. We value clear communication, realistic commitments, and accountability for our work, recognizing that strong professional relationships are built on reliability and mutual respect.
+
+7. Problem-Solving Mindset
+
+Every challenge presents an opportunity to discover a better solution. Rather than being discouraged by complexity, we approach problems with curiosity, logical thinking, and persistence, breaking them into manageable steps and working towards effective outcomes.
+
+8. Growth Through Challenges
+
+We understand that meaningful progress takes patience, discipline, and resilience. We embrace constructive feedback, learn from mistakes, and view challenges as essential parts of our development — both as individuals and as a team.
+
+What We Stand For
+
+Our values go beyond the code we write or the websites we build. They represent the mindset we bring to every idea, every collaboration, and every challenge. As we continue to grow, we remain committed to building with purpose, learning with curiosity, and working with integrity.
+
+We don't just believe in building better technology; we believe in becoming better creators along the way.</p></article>
+  </div>
+</section>
+
+<!-- MEMBERS: all three share the same layout; edit each block the same way -->
+<section id="team" class="section member flip">
+  <div class="ph portrait"><img class="photo" src="https://cdn.phototourl.com/member/2026-10-19-d0b692d8-3072-4fd7-a202-56eaea853967.png" alt="Portrait of Aditya Kumar" style="--face:50% 20%"><span>Portrait placeholder</span></div>
+  <div class="profile">
+    <p class="label">TEAM MEMBER</p>
+    <h2 class="big">Aditya Kumar</h2>
+    <p class="role">WEB DEVELOPER</p>
+    <p>I am an aspiring web developer with a deep passion for technology, artificial intelligence, and the endless possibilities of innovation. Driven by curiosity and a genuine desire to understand how things work, I believe that learning is a lifelong journey, and I strive to learn, grow, and improve at every stage of my life. For me, there is no finish line when it comes to gaining knowledge — there is always something new to explore, a skill to master, or a challenge to overcome.
+
+Although I am still at the beginning of my professional journey and may not have extensive industry experience yet, I strongly believe in my ability to grow, adapt, and deliver increasingly better results through dedication, consistent effort, and practical learning. I see my current stage not as a limitation but as an opportunity to build a strong foundation, explore new technologies, and develop the skills necessary to excel in the evolving world of technology.
+
+My keen interest in science, technology, and AI motivates me to think beyond conventional approaches, experiment with new ideas, and continuously seek better ways to solve problems. I value hard work, persistence, and the willingness to step outside my comfort zone, believing that meaningful progress comes from consistency and the courage to embrace challenges.
+
+My goal is not simply to become a better developer, but to become a lifelong learner who can transform knowledge into innovation, challenges into opportunities, and ideas into impactful digital solutions.</p>
+    <dl>
+      <dt>Skills and interests</dt><dd><h2>Skills &amp; Interests</h2>
+
+  <p>
+    I have been learning, practicing, and building websites for over 1.5 years,
+    continuously strengthening my development skills through hands-on projects,
+    experimentation, and independent learning. My primary focus is web development,
+    with a particular interest in backend engineering, application architecture,
+    and production-ready digital solutions.
+  </p>
+
+  <h3>Technical Skills</h3>
+
+  <h4>Frontend Development</h4>
+  <ul>
+    <li><strong>HTML5:</strong> Creating semantic, structured, and accessible web pages.</li>
+    <li><strong>CSS3:</strong> Developing responsive layouts, modern interfaces, and animations.</li>
+    <li><strong>JavaScript:</strong> Implementing interactive functionality and application logic.</li>
+    <li><strong>React.js:</strong> Building reusable components and interactive web applications.</li>
+  </ul>
+
+  <h4>Backend Development &amp; Databases</h4>
+  <ul>
+    <li><strong>Node.js:</strong> Developing server-side applications and backend functionality.</li>
+    <li><strong>Express.js:</strong> Building REST APIs, routing systems, and middleware.</li>
+    <li><strong>MongoDB:</strong> Managing databases and designing document-based data models.</li>
+    <li><strong>Backend Engineering:</strong> Focusing on authentication, authorization, input validation,
+      error handling, API security, and maintainable application architecture.</li>
+  </ul>
+
+  <h4>Programming &amp; Development Tools</h4>
+  <ul>
+    <li><strong>Basic Java:</strong> Understanding programming fundamentals and object-oriented concepts.</li>
+    <li><strong>Git &amp; GitHub:</strong> Managing source code and tracking development progress.</li>
+    <li><strong>VS Code:</strong> Writing, debugging, and managing code efficiently.</li>
+    <li><strong>Responsive Web Design:</strong> Creating websites that adapt to different screen sizes.</li>
+  </ul>
+
+  <h3>My Specialization: Backend Engineering</h3>
+
+  <p>
+    Backend engineering is one of my strongest areas of interest. I enjoy understanding
+    how applications process requests, manage databases, authenticate users, protect
+    sensitive information, and deliver reliable results.
+  </p>
+
+  <p>
+    My goal is to develop production-ready backend systems that prioritize security,
+    scalability, maintainability, and performance. I am particularly interested in
+    clean code, modular architecture, efficient database design, robust API development,
+    and reliable server-side systems.
+  </p>
+
+  <p>
+    I believe a great backend is not merely one that works, but one that remains
+    secure, maintainable, and reliable as an application grows.
+  </p>
+
+  <h3>Beyond Coding: Chess &amp; Strategic Thinking</h3>
+
+  <p>
+    Beyond technology, chess is one of my strongest personal interests. I have played
+    online bullet games against highly accomplished players, including International
+    Masters (IMs) and a Grandmaster (GM), and have defeated several strong opponents.
+  </p>
+
+  <p>
+    Chess has helped sharpen my logical reasoning, pattern recognition, strategic
+    planning, and decision-making. These abilities influence how I approach programming
+    challenges, analyze different solutions, debug complex problems, and develop
+    effective logic.
+  </p>
+
+  <p>
+    For me, chess is more than a game; it is a continuous exercise in patience,
+    calculation, discipline, and strategic thinking.
+  </p>
+
+  <h3>Artificial Intelligence &amp; Emerging Technologies</h3>
+
+  <p>
+    My curiosity extends beyond web development to artificial intelligence,
+    automation, and emerging technologies. I am interested in understanding how
+    intelligent systems work, how AI can improve software development, and how
+    modern technologies can be integrated into practical applications.
+  </p>
+
+  <p>
+    I aspire to expand my knowledge of AI while continuing to strengthen my
+    programming fundamentals and explore new possibilities in software engineering.
+  </p>
+
+  <h3>The Mindset Behind My Work</h3>
+
+  <ul>
+    <li><strong>Lifelong Learning:</strong> Continuously expanding my knowledge and improving my skills.</li>
+    <li><strong>Analytical Thinking:</strong> Evaluating problems from multiple perspectives before deciding on a solution.</li>
+    <li><strong>Hard Work &amp; Persistence:</strong> Remaining committed to overcoming challenging technical problems.</li>
+    <li><strong>Attention to Detail:</strong> Focusing on clean code, thoughtful implementation, and reliability.</li>
+    <li><strong>Adaptability:</strong> Embracing new technologies, constructive feedback, and continuous improvement.</li>
+    <li><strong>Problem-Solving:</strong> Understanding the root cause of a problem rather than relying on temporary fixes.</li>
+    <li><strong>Independent Learning:</strong> Exploring unfamiliar concepts through research, experimentation, and practical projects.</li>
+  </ul>
+
+  <p>
+    <strong>
+      I believe curiosity drives innovation, discipline builds expertise, and
+      continuous learning creates opportunities. My goal is to keep improving,
+      transform knowledge into practical solutions, and build digital experiences
+      that make a meaningful difference.
+    </strong>
+  </p></dd>
+      <dt>Responsibilities</dt><dd>[Describe individual responsibilities.]</dd>
+      <dt>Project contributions</dt><dd>[List contributions.]</dd>
+      <dt>Education and achievements</dt><dd>[Add education and achievements.]</dd>
+    </dl>
+    <ul class="contacts" data-contacts="kumar"></ul>
+  </div>
+</section>
+
+<section class="section member">
+  <div class="profile">
+    <p class="label">TEAM MEMBER</p>
+    <h2 class="big">Aditya Bhagat</h2>
+    <p class="role">[Enter role or specialization]</p>
+    <p>[Write a personal introduction.]</p>
+    <dl>
+      <dt>Skills and interests</dt><dd>[Add skills and areas of interest.]</dd>
+      <dt>Responsibilities</dt><dd>[Describe individual responsibilities.]</dd>
+      <dt>Project contributions</dt><dd>[List contributions.]</dd>
+      <dt>Education and achievements</dt><dd>[Add education and achievements.]</dd>
+    </dl>
+    <ul class="contacts" data-contacts="bhagat"></ul>
+  </div>
+  <div class="ph portrait"><img class="photo" src="https://cdn.phototourl.com/member/2026-10-19-1819ac73-6b8e-4d64-902b-cc21ce5154c7.jpg" alt="Portrait of Aditya Bhagat" style="--face:50% 20%"><span>Portrait placeholder</span></div>
+</section>
+
+<section class="section member flip">
+  <div class="ph portrait"><img class="photo" src="images/mohammad-tashin-ansari.jpg" alt="Portrait of Mohammad Tashin Ansari" style="--face:50% 20%"><span>Portrait placeholder</span></div>
+  <div class="profile">
+    <p class="label">TEAM MEMBER</p>
+    <h2 class="big">Mohammad Tashin Ansari</h2>
+    <p class="role">[Enter role or specialization]</p>
+    <p>[Write a personal introduction.]</p>
+    <dl>
+      <dt>Skills and interests</dt><dd>[Add skills and areas of interest.]</dd>
+      <dt>Responsibilities</dt><dd>[Describe individual responsibilities.]</dd>
+      <dt>Project contributions</dt><dd>[List contributions.]</dd>
+      <dt>Education and achievements</dt><dd>[Add education and achievements.]</dd>
+    </dl>
+    <ul class="contacts" data-contacts="ansari"></ul>
+  </div>
+</section>
+
+<!-- EXPERTISE -->
+<section id="expertise" class="section alt">
+  <h2 class="big">What We Bring to the Table</h2>
+  <p class="intro">Not every member has every skill. Tag each skill with the people who hold it.</p>
+  <div class="skills">
+    <div class="skill-group"><h3>Technical Skills</h3><ul>
+      <li>[Skill] <em>[Member name(s)]</em></li><li>[Skill] <em>[Member name(s)]</em></li></ul></div>
+    <div class="skill-group"><h3>Creative Skills</h3><ul>
+      <li>[Skill] <em>[Member name(s)]</em></li><li>[Skill] <em>[Member name(s)]</em></li></ul></div>
+    <div class="skill-group"><h3>Professional Skills</h3><ul>
+      <li>[Skill] <em>[Member name(s)]</em></li><li>[Skill] <em>[Member name(s)]</em></li></ul></div>
+    <div class="skill-group"><h3>Research and Problem-Solving</h3><ul>
+      <li>[Skill] <em>[Member name(s)]</em></li><li>[Skill] <em>[Member name(s)]</em></li></ul></div>
+    <div class="skill-group"><h3>Individual Specializations</h3><ul>
+      <li>[Specialization] <em>[Member name]</em></li><li>[Specialization] <em>[Member name]</em></li></ul></div>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects" class="section">
+  <h2 class="big">Selected Work</h2>
+  <p class="intro">The three entries below are placeholders. Replace them with real projects, or delete them to show the empty state.</p>
+  <div class="projects" id="project-grid">
+    <article class="project wide">
+      <div class="ph shot r169"><img class="photo" src="images/project-1.jpg" alt="Project screenshot" style="--face:50% 50%"><span>Project image</span></div>
+      <p class="tag">[Category] &nbsp;|&nbsp; Placeholder project</p>
+      <h3>[Project title]</h3>
+      <p>[Short description.]</p>
+      <p class="small"><b>Team:</b> [Members involved]<br><b>Contributions:</b> [Who did what]<br><b>Tools:</b> [Technologies used]</p>
+      <p class="small"><a href="#contact" data-optional>[Live URL, optional]</a> &nbsp; <a href="#contact" data-optional>[GitHub URL, optional]</a></p>
+    </article>
+    <article class="project">
+      <div class="ph shot r45"><img class="photo" src="images/project-2.jpg" alt="Project screenshot" style="--face:50% 50%"><span>Project image</span></div>
+      <p class="tag">[Category] &nbsp;|&nbsp; Placeholder project</p>
+      <h3>[Project title]</h3>
+      <p>[Short description.]</p>
+      <p class="small"><b>Team:</b> [Members] <br><b>Tools:</b> [Technologies]</p>
+    </article>
+    <article class="project">
+      <div class="ph shot r11"><img class="photo" src="images/project-3.jpg" alt="Project screenshot" style="--face:50% 50%"><span>Project image</span></div>
+      <p class="tag">[Category] &nbsp;|&nbsp; Placeholder project</p>
+      <h3>[Project title]</h3>
+      <p>[Short description.]</p>
+      <p class="small"><b>Team:</b> [Members] <br><b>Tools:</b> [Technologies]</p>
+    </article>
+  </div>
+  <p class="empty" id="empty-state" hidden>No projects added yet. Our first entries will appear here.</p>
+</section>
+
+<!-- COLLABORATION -->
+<section class="section alt">
+  <h2 class="big">How We Work Together</h2>
+  <div class="two-col">
+    <article><h3>Coordination and decisions</h3><p>[Describe how the three of you coordinate work and make decisions.]</p></article>
+    <article><h3>Individual ownership</h3><p>[Describe what each member owns.]</p></article>
+    <article><h3>Collaboration and communication</h3><p>[Describe how the team communicates.]</p></article>
+    <article><h3>Planning and execution</h3><p>[Describe how the team plans and delivers.]</p></article>
+    <article><h3>Shared goals</h3><p>[List the goals the team shares.]</p></article>
+  </div>
+</section>
+
+<!-- CLOSING -->
+<section id="contact" class="section closing">
+  <h2 class="huge">Good Ideas Deserve Great Execution.</h2>
+  <p class="lead">We believe in learning continuously, combining our strengths, and creating work that reflects our shared ambition.</p>
+  <a class="btn primary" href="#contact-links">Get in Touch</a>
+  <div id="contact-links" class="closing-links">
+    <div><h3>Aditya Kumar</h3><ul class="contacts" data-contacts="kumar"></ul></div>
+    <div><h3>Aditya Bhagat</h3><ul class="contacts" data-contacts="bhagat"></ul></div>
+    <div><h3>Mohammad Tashin Ansari</h3><ul class="contacts" data-contacts="ansari"></ul></div>
+  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <a class="logo" href="#home" aria-label="Tremindova - home"><img src="images/logo.png" alt="Tremindova"></a>
+  <p>Three Minds. One Vision. &copy; [Year] Aditya Kumar, Aditya Bhagat, Mohammad Tashin Ansari</p>
+  <a href="#top">Back to top</a>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+ <article class="project">
+      <div class="ph shot r45"><img class="photo" src="images/project-2.jpg" alt="Project screenshot" style="--face:50% 50%"><span>Project image</span></div>
+      <p class="tag">[Category] &nbsp;|&nbsp; Placeholder project</p>
+      <h3>[Project title]</h3>
+      <p>[Short description.]</p>
+      <p class="small"><b>Team:</b> [Members] <br><b>Tools:</b> [Technologies]</p>
+    </article>
+    <article class="project">
+      <div class="ph shot r11"><img class="photo" src="images/project-3.jpg" alt="Project screenshot" style="--face:50% 50%"><span>Project image</span></div>
+      <p class="tag">[Category] &nbsp;|&nbsp; Placeholder project</p>
+      <h3>[Project title]</h3>
+      <p>[Short description.]</p>
+      <p class="small"><b>Team:</b> [Members] <br><b>Tools:</b> [Technologies]</p>
+    </article>
+  </div>

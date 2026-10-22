@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Projects | Tremindova</title>
+    <meta
+      name="description"
+      content="A collective of ambitious individuals bringing together skills, creativity, and ideas to build meaningful work."
+    />
+    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=EB+Garamond:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="projects">
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header" id="top">
+      <a class="logo" href="index.html" aria-label="Tremindova - home"
+        ><img src="images/logo.png" alt="Tremindova"
+      /></a>
+      <button
+        class="menu-btn"
+        aria-expanded="false"
+        aria-controls="nav"
+        aria-label="Open menu"
+      >
+        <span></span><span></span>
+      </button>
+      <nav id="nav" aria-label="Main">
+        <a href="index.html" data-page="home">Home</a>
+        <div class="dd">
+          <a href="about.html" data-page="about">About</a
+          ><button
+            class="dd-toggle"
+            aria-expanded="false"
+            aria-label="About submenu"
+          >
+            &#9662;
+          </button>
+          <ul class="dd-menu">
+            <li><a href="about.html#about">Who We Are</a></li>
+            <li><a href="about.html#collab">How We Work Together</a></li>
+          </ul>
+        </div>
+        <div class="dd">
+          <a href="team.html" data-page="team">Our Team</a
+          ><button
+            class="dd-toggle"
+            aria-expanded="false"
+            aria-label="Our Team submenu"
+          >
+            &#9662;
+          </button>
+          <ul class="dd-menu">
+            <li><a href="team.html#kumar">Aditya Kumar</a></li>
+            <li><a href="team.html#bhagat">Aditya Bhagat</a></li>
+            <li><a href="team.html#ansari">Mohammad Tashin Ansari</a></li>
+          </ul>
+        </div>
+        <a href="expertise.html" data-page="expertise">Expertise</a
+        ><a href="projects.html" data-page="projects">Projects</a
+        ><a href="contact.html" data-page="contact">Contact</a>
+      </nav>
+    </header>
+    <main id="main">
+      <section class="page-hero">
+        <p class="label">PROJECTS</p>
+        <h1 class="huge">Our Work</h1>
+      </section>
+      <!-- PROJECTS -->
+      <section id="projects" class="section">
+        <h2 class="big">Selected Work</h2>
+
+        <div class="projects" id="project-grid">
+          <article class="project wide">
+            <div class="ph shot r169">
+              <img
+                class="photo"
+                src="images/Screenshot 2026-10-22 113934.png"
+                alt="Project screenshot"
+                style="--face: 50% 50%"
+              /><span>Project image</span>
+            </div>
+            <p class="tag">&nbsp;&nbsp; </p>
+            <h3>kjayaraman.com</h3>
+            <p>This image depicts the homepage of kjayaraman.com, showcasing the modern design and user-friendly interface.</p>
+            
+          </article>
+          <article class="project">
+            <div class="ph shot r45">
+              <img
+                class="photo"
+                src="images/Screenshot 2026-10-22 114021.png"
+                alt="Project screenshot"
+                style="--face: 50% 50%"
+              /><span>Project image</span>
+            </div>
+            
+            <h3>kjayaraman.com</h3>
+            <p>This image depicts the user logged-in view of kjayaraman.com, showcasing the personalized experience and interactive features.</p>
+            
+          </article>
+          <article class="project">
+            <div class="ph shot r11">
+              <img
+                class="photo"
+                src="images/Screenshot 2026-10-22 114045.png"
+                alt="Project screenshot"
+                style="--face: 50% 50%" 
+              /><span>Project image</span>
+            </div>
+            <p class="tag"> &nbsp;&nbsp; </p>
+            <h3>kjayaraman.com</h3>
+            <p>This images depicts the dark mode version of kjayaraman.com showing contact-us page</p>
+            
+          </article>
+        </div>
+        <p class="empty" id="empty-state" hidden>
+          No projects added yet. Our first entries will appear here.
+        </p>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <a class="logo" href="index.html" aria-label="Tremindova - home"
+        ><img src="images/logo.png" alt="Tremindova"
+      /></a>
+      <p>&copy; All rights reserved.</p>
+      
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
